@@ -1,5 +1,5 @@
-#Task1 Simple Linear Regression
-Simple Linear Regression with Python Scikit Learn
+# Task1
+## Simple Linear Regression with Python Scikit Learn
 
 Prediction using Supervised ML
 *********************************
